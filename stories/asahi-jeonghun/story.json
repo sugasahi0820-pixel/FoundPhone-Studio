@@ -1,0 +1,60 @@
+{
+  "title": "别扭的晚风",
+  "description": "翻开这台手机，撞见一段没说出口的心动",
+  "startScene": "chat",
+  "scenes": {
+    "chat": {
+      "type": "chat",
+      "messages": [
+        {
+          "sender": "asahi",
+          "avatar": "IMG_6778.jpeg",
+          "text": "今天散场的时候，你好像不太开心。"
+        },
+        {
+          "sender": "me",
+          "text": "有吗？还好啦。"
+        },
+        {
+          "sender": "asahi",
+          "avatar": "IMG_6778.jpeg",
+          "text": "我看得出来，你不太累，只是情绪沉下去了。要不要晚上一起去江边走走？"
+        },
+        {
+          "sender": "me",
+          "text": "可以啊。"
+        },
+        {
+          "sender": "jihun",
+          "avatar": "IMG_1568.jpeg",
+          "text": "你最近是不是总和Asahi待在一起？"
+        },
+        {
+          "sender": "me",
+          "text": "偶尔而已。"
+        },
+        {
+          "sender": "jihun",
+          "avatar": "IMG_1568.jpeg",
+          "text": "你小心一点，他很会让人动心。"
+        },
+        {
+          "sender": "me",
+          "text": "你想多了。"
+        },
+        {
+          "sender": "jihun",
+          "avatar": "IMG_1568.jpeg",
+          "text": "我只是不想看见你最后难过。"
+        }
+      ]
+    },
+    "ins": {
+      "type": "ins",
+      "avatar": "IMG_6778.jpeg",
+      "username": "asahi",
+      "image": "IMG_1569.jpeg",
+      "caption": "晚风适合说悄悄话。"
+    }
+  }
+}
